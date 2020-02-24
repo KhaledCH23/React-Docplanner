@@ -1,0 +1,13 @@
+.footer {
+  color: #ababab;
+  margin: 0px 194px;
+  padding: 0px 20px;
+  text-align: center;
+  font-size: 10.5px;
+}
+.footer p {
+  margin: 19.2px 0px 4.8px;
+}
+.footer a {
+  text-decoration: none;
+}

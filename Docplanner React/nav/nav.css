@@ -1,0 +1,25 @@
+.header {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  /* margin: 0px 124px; */
+  z-index: 10;
+  background-color: #fffffd;
+  position: sticky;
+  top: 0;
+  opacity: 0.98;
+  background-color: white;
+}
+.img1 {
+  width: 268px;
+  height: 63px;
+}
+.nav-item {
+  padding: 10px;
+  margin-top: 15px;
+}
+.nav-item a {
+  text-decoration: none;
+  padding: 5px;
+}

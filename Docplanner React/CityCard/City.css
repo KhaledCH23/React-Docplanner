@@ -1,0 +1,43 @@
+.city-card {
+  margin: 88px 100px 80px;
+  padding: 0px 20px;
+}
+.intro-city {
+  text-align: center;
+  margin: 0px 257px 67px;
+}
+.intro-city h1 {
+  color: #00b39b;
+}
+.intro-city p {
+  margin: 22.4px 0px;
+  color: #747474;
+}
+.card-city img {
+  width: 309px;
+  height: 278px;
+}
+.card-city {
+  /* padding: 10px; */
+  display: flex;
+  flex-wrap: wrap;
+}
+.place {
+  /*padding: 10px;*/
+  margin: 10px;
+}
+.place:hover {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(116, 116, 116, 0.15);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(116, 116, 116, 0.15);
+  box-shadow: 10px 10px 5px 0px rgba(116, 116, 116, 0.15);
+}
+.placename {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.placename button {
+  background-color: #3d83df;
+  color: white;
+  padding: 10px 15px;
+}

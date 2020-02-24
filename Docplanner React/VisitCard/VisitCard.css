@@ -1,0 +1,46 @@
+.visit-card {
+  display: flex;
+  padding: 0px 20px;
+  margin: 60px 124px 40px;
+  color: white;
+}
+.patients h2 {
+  padding: 7.8px 0px 26px;
+}
+.doctors h2 {
+  padding: 7.8px 0px 66px;
+}
+.patients {
+  background-color: #00ccb1;
+  padding: 22px 40px 0px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  height: 391.75px;
+}
+.visit-container {
+  max-width: 458.5px;
+  padding: 10px;
+}
+.doctors {
+  background-color: #3d83df;
+  padding: 22px 40px 0px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  height: 391.75px;
+}
+.img23 {
+  width: 397.5px;
+  height: 247.75px;
+}
+figure {
+  margin: -36.8px 0px 0px 159px;
+}
+.btn {
+  padding: 0px 42px 0px 18px;
+  width: 175px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 9px;
+}

@@ -1,0 +1,15 @@
+.intro-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 20px;
+  margin: 33px 124px 60px;
+}
+.paragraph-container {
+  display: flex;
+  color: #747474;
+}
+.paragraph-container p {
+  margin: 0px 12.8px;
+  padding: 10px;
+}
